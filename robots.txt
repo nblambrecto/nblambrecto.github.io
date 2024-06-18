@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nblambrecto.github.io/sitemap
+Sitemap: https://nblambrecto.github.io/app/sitemap
+Sitemap: https://nblambrecto.github.io/assets/sitemap
+Sitemap: https://nblambrecto.github.io/css/sitemap
+Sitemap: https://nblambrecto.github.io/includes/sitemap
+Sitemap: https://nblambrecto.github.io/item/sitemap
+Sitemap: https://nblambrecto.github.io/src/sitemap
